@@ -6,4 +6,4 @@ Bu yerda MyGov Uz portali haqida ma'lumot beriladi.
 2. Faylni ko'rish yoki yuklab olish mumkin.
 
 ## Aloqa
-[MyGov Uz](https://my.gov.uz) rasmiy sayti
+[MyGov Uz] rasmiy sayti
